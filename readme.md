@@ -118,7 +118,6 @@ Before you begin, make sure you have the following software and tools installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/duonggiakhanhb/Motogp-Data-Engineering-Project.git
 cd motogp-data-engineering-project
 ```
 ### Start the Docker Containers
