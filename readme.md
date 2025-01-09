@@ -1,17 +1,5 @@
 # Data Engineer Project for MotoGP
 
-Hey there! 🏍️ Welcome to my Data Engineer project in the world of MotoGP. Get ready for a thrilling journey through the twists and turns of data collection, transformation, and loading.
-
-## Introduction
-
-The MotoGP Data Engineer project is more than just a project; it's an adventure filled with data-driven excitement. It all began on a casual day when I visited a friend's house to hang out and have a great time. As destiny would have it, we stumbled upon a MotoGP race and decided to watch it.
-
-As we sat glued to the screen, witnessing the high-speed action and the jaw-dropping performance of riders like Jorge Martin, we couldn't help but be amazed. The adrenaline, the race strategy, and the incredible overtakes had us on the edge of our seats.
-
-After the race, we couldn't stop talking about it. Jorge Martin's fiery performance became the hot topic of our discussion. His skills were so blazing that it ignited a spark in me. That's when the idea of creating a Data Engineer project was born.
-
-And here we are! This project is the result of that fateful day, where MotoGP not only entertained us but also inspired a data-driven journey. Join me on this adventure, where data takes the center stage in the high-speed world of MotoGP.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
